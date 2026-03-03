@@ -233,7 +233,7 @@ Corner:Clone().Parent = SearchBar
 SearchBar.Parent = BackFrame
 
 local MadeByLabel = Instance.new("TextLabel")
-MadeByLabel.Text = "zeina"
+MadeByLabel.Text = "tep"
 MadeByLabel.TextScaled = true
 MadeByLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 MadeByLabel.BackgroundTransparency = 0.3
