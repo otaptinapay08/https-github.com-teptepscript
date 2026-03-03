@@ -181,7 +181,7 @@ end)
 Frame.Parent = BackFrame
 
 local Grid = Instance.new("UIGridLayout")
-Grid.CellSize = UDim2.new(0.199, 0, 0, 0)
+Grid.CellSize = UDim2.new(0.200, 0, 0, 0)
 Grid.CellPadding = UDim2.new(0.00, 0, 0.006, 0)
 Grid.SortOrder = Enum.SortOrder.LayoutOrder
 Grid.Parent = Frame
