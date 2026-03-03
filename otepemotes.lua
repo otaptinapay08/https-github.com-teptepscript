@@ -1,4 +1,4 @@
--- Jecho Emotes Menu
+-- teptep Emotes Menu
 -- KEY SYSTEM (PUT ABOVE EVERYTHING)
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
@@ -6,9 +6,9 @@ local LocalPlayer = Players.LocalPlayer
 
 
 
--- Jecho Emotes Menu
--- Made by Siwo
--- Made by Siwo
+-- Teptep Emotes Menu
+-- Made by tep
+-- Made by tep
 local IsStudio = false
 
 local ContextActionService = game:GetService("ContextActionService")
@@ -233,7 +233,7 @@ Corner:Clone().Parent = SearchBar
 SearchBar.Parent = BackFrame
 
 local MadeByLabel = Instance.new("TextLabel")
-MadeByLabel.Text = "tep"
+MadeByLabel.Text = "zeina"
 MadeByLabel.TextScaled = true
 MadeByLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 MadeByLabel.BackgroundTransparency = 0.3
@@ -443,6 +443,8 @@ local customEmotes = {
 	{ Name = "BURBERRY LOLA ATTITUDE", Id = 10147924028, Price = 0, Index = 140 },
 	{ Name = "Arm-Twist", Id = 9710992846, Price = 0, Index = 46 },
 	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 200 },
+	{ Name = "stretch like this?", Id = 87739743400914, Price = 0, Index = 205 },
+	{ Name = "Catwalk Walk", Id = 126017588998166, Price = 0, Index = 205 },
 	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
 
 
