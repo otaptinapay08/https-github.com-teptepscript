@@ -523,8 +523,8 @@ local customEmotes = {
 	{ Name = "Alo Yoga Pose - Lotus Position", Id = 12507097350, Price = 0, Index = 121 },
 	{ Name = "BURBERRY LOLA ATTITUDE", Id = 10147924028, Price = 0, Index = 140 },
 	{ Name = "Arm-Twist", Id = 9710992846, Price = 0, Index = 46 },
+	{ Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 200 },
 	{ Name = "Rise-Above-The-Chainsmokers", Id = 13071993910, Price = 0, Index = 91 },
-    { Name = "Stray Kids - Do It", Id = 95256633886548, Price = 0, Index = 200 },
 
 
 }
