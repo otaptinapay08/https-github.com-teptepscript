@@ -3,7 +3,7 @@
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
-local CorrectKey = "otepcute" -- Change key here
+local CorrectKey = "Zeyna" -- Change key here
 local KeyVerified = false
 
 local CoreGui = game:GetService("CoreGui")
@@ -25,7 +25,7 @@ Corner.Parent = Frame
 
 local Title = Instance.new("TextLabel")
 Title.Size = UDim2.new(1,0,0.3,0)
-Title.Text = "Jecho Key System"
+Title.Text = "PASSWORD"
 Title.TextScaled = true
 Title.BackgroundTransparency = 1
 Title.TextColor3 = Color3.new(1,1,1)
@@ -181,7 +181,7 @@ end)
 Frame.Parent = BackFrame
 
 local Grid = Instance.new("UIGridLayout")
-Grid.CellSize = UDim2.new(0.166, 0, 0, 0)
+Grid.CellSize = UDim2.new(0.200, 0, 0, 0)
 Grid.CellPadding = UDim2.new(0.00, 0, 0.006, 0)
 Grid.SortOrder = Enum.SortOrder.LayoutOrder
 Grid.Parent = Frame
