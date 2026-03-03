@@ -3,7 +3,7 @@
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
-local CorrectKey = "Zeyna" -- Change key here
+local CorrectKey = "zeina" -- Change key here
 local KeyVerified = false
 
 local CoreGui = game:GetService("CoreGui")
@@ -314,7 +314,7 @@ Corner:Clone().Parent = SearchBar
 SearchBar.Parent = BackFrame
 
 local MadeByLabel = Instance.new("TextLabel")
-MadeByLabel.Text = "teptep"
+MadeByLabel.Text = "zeina"
 MadeByLabel.TextScaled = true
 MadeByLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 MadeByLabel.BackgroundTransparency = 0.3
