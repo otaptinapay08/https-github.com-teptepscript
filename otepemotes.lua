@@ -314,7 +314,7 @@ Corner:Clone().Parent = SearchBar
 SearchBar.Parent = BackFrame
 
 local MadeByLabel = Instance.new("TextLabel")
-MadeByLabel.Text = "Jecho<3"
+MadeByLabel.Text = "teptep"
 MadeByLabel.TextScaled = true
 MadeByLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 MadeByLabel.BackgroundTransparency = 0.3
